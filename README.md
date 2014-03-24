@@ -1,6 +1,6 @@
 # Ausca
 
-[http://ausca.com](Ausca) is a collection of automation utilities and bots written in Ruby.
+Ausca is a collection of automation utilities and bots written in Ruby.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-Check out the tests directory for functional examples.
+Check out http://ausca.com for documentation, and the tests directory for functional examples.
 
 ## Contributing
 

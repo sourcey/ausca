@@ -3,10 +3,10 @@ require 'open-uri'
 
 module Ausca
   module RSS
-    class Combiner
+    class Joiner
       def options
         @options ||= {
-          # Array of source feed URLs to combine
+          # Array of source feed URLs to join
           feeds: [],
           
           # Max output feed items

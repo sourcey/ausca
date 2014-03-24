@@ -6,11 +6,11 @@ require 'ausca/version'
 Gem::Specification.new do |spec|
   spec.name          = "ausca"
   spec.version       = Ausca::VERSION
-  spec.authors       = ["Kam"]
-  spec.email         = ["kam@anionu.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.authors       = ["Kam Low"]
+  spec.email         = ["hello@sourcey.com"]
+  spec.description   = %q{Ausca is a collection of automation utilities that you can use to fast-track the development of your online empire.}
+  spec.summary       = %q{Automation utilities and bots.}
+  spec.homepage      = "http://ausca.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

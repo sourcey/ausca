@@ -1,6 +1,6 @@
 require_relative "../lib/ausca"
 
-rss = Ausca::RSS::Combiner.new({
+rss = Ausca::RSS::Joiner.new({
   :feeds => 
     # http://www.topix.com/rss/popular/topstories
     # http://feeds.bbci.co.uk/news/rss.xml
@@ -14,7 +14,6 @@ rss = Ausca::RSS::Combiner.new({
   :title => "test title",
   :description => "test description",
   :link => "test link",
-  :author => "test author"
-  
+  :author => "test author"  
 })
 rss.generate

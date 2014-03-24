@@ -1,6 +1,6 @@
 # Ausca
 
-TODO: Write a gem description
+[http://ausca.com](Ausca) is a collection of automation utilities and bots written in Ruby.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Check out the tests directory for functional examples.
 
 ## Contributing
 

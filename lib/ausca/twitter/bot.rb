@@ -33,7 +33,7 @@ module Ausca
 
       # Create the Twitter REST client instance
       def client
-        @client ||= Twitter::REST::Client.new do |config|
+        @client ||= ::Twitter::REST::Client.new do |config|
           config.consumer_key        = options[:consumer_key]
           config.consumer_secret     = options[:consumer_secret]
           config.access_token        = options[:access_token]
@@ -164,7 +164,7 @@ module Ausca
 
       # Print useful information about a tweet
       def print_tweet tweet
-        puts '----------------------------------------------------------------------'
+        puts "---------------------------------------"
         puts tweet.text
         puts "favorite_count: #{tweet.favorite_count}"
         puts "retweet_count: #{tweet.retweet_count}"

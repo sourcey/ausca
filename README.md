@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-Check out http://ausca.com for documentation, and the tests directory for functional examples.
+Check out http://ausca.com for documentation, and the `examples` directory for functional examples.
 
 ## Contributing
 

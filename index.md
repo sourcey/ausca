@@ -76,10 +76,10 @@ bot = Ausca::Twitter::Bot.new({
   :want_num_retweets => 1,
   :want_num_favorites => 3
 })
-```
 
 # Run the bot once
 bot.run
+```
 
 ## Contributing
 
@@ -88,3 +88,7 @@ bot.run
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Issues
+
+Use the Github issue tracker if you find any bugs or have any feature requests: https://github.com/sourcey/ausca/issues

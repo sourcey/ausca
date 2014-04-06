@@ -91,4 +91,4 @@ bot.run
 
 ## Issues
 
-Use the Github issue tracker if you find any bugs or have any feature requests: https://github.com/sourcey/ausca/issues
+If you find any bugs or have any feature requests Use the [Github issue tracker](https://github.com/sourcey/ausca/issues).

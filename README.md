@@ -1,7 +1,3 @@
----
-layout: index
----
-
 # Ausca
 
 Ausca is a collection of automation utilities and bots written in Ruby.
